@@ -30,3 +30,7 @@ You can play the game live on [Netlify](https://ryker-guess-my-number-game.netli
 ## Credits
 
 This game is created by Deuel Ramos. Feel free to modify and improve it as you like.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
