@@ -20,6 +20,10 @@ notZero();
 // document.querySelector(`.number`).textContent = secretNumber;
 
 function notZero() {
+  // Sets a Secret Number
+  secretNumber = Math.trunc(Math.random() * 20);
+
+  // Makes sure it's not zero
   while (!secretNumber) {
     secretNumber = Math.trunc(Math.random() * 20);
   }
